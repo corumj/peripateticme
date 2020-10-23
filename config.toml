@@ -1,0 +1,4 @@
+baseURL = "http://peripatetic.me/"
+languageCode = "en-us"
+title = "cactus"
+theme = "slick"
